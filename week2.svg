@@ -1,0 +1,29 @@
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <g transform="translate(10,10)">
+    <g>
+      <circle class="node node--root" transform="translate(340,340)" r="340" style="fill-opacity: 0; stroke: rgb(221, 221, 221); stroke-opacity: 1;"></circle>
+      <circle class="node node--leaf" transform="translate(245.29496393664408,317.7610012626728)" r="149.9329369919896" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+      <circle class="node node--leaf" transform="translate(535.2283980292867,317.7610012626728)" r="135.14772305138248" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+      <circle class="node node--leaf" transform="translate(403.9718768484094,543.8872658821963)" r="121.45956084947603" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+      <circle class="node node--leaf" transform="translate(402.2608050389403,132.66378398820694)" r="87.90597632298015" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+      <circle class="node node--leaf" transform="translate(244.3174618903715,92.8527042811616)" r="70.12471015209873" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+      <circle class="node node--leaf" transform="translate(540.9250674863996,131.94040564525775)" r="45.907398908404375" style="fill: rgb(191, 105, 105); fill-opacity: 1; stroke: rgb(221, 221, 221); stroke-opacity: 0;"></circle>
+    </g>
+    <g>
+      <text text-anchor="middle" transform="translate(340,340)" style="font-size: 11px; font-family: Arial, Helvetica;"></text>
+
+      <text text-anchor="middle" transform="translate(245.29496393664408,317.7610012626728)" style="font-size: 11px; font-family: Arial, Helvetica;">Ability to have a flexible schedule</text>
+
+      <text text-anchor="middle" transform="translate(535.2283980292867,317.7610012626728)" style="font-size: 11px; font-family: Arial, Helvetica;">Flexibility to work from any location</text>
+
+      <text text-anchor="middle" transform="translate(403.9718768484094,543.8872658821963)" style="font-size: 11px; font-family: Arial, Helvetica;">Not having to commute</text>
+
+      <text text-anchor="middle" transform="translate(402.2608050389403,132.66378398820694)" style="font-size: 11px; font-family: Arial, Helvetica;">Ability to spend time with family</text>
+
+      <text text-anchor="middle" transform="translate(244.3174618903715,92.8527042811616)" style="font-size: 11px; font-family: Arial, Helvetica;">Ability to work from home</text>
+
+      <text text-anchor="middle" transform="translate(540.9250674863996,131.94040564525775)" style="font-size: 11px; font-family: Arial, Helvetica;">Other</text>
+
+    </g>
+  </g>
+  </svg>
