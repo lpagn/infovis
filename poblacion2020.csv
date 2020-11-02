@@ -1,5 +1,5 @@
 id,prov,ambos,varon,mujer
-0,Buenos Aires;17.541.141;8.607.537;8.933.604
+0,Buenos Aires,17.541.141,8.607.537,8.933.604
 1,CABA,3.075.646,1.444.545,1.631.101
 2,Catamarca,415.438,207.933,207.505
 3,Chaco,1.204.541,594.394,610.147
@@ -13,13 +13,13 @@ id,prov,ambos,varon,mujer
 11,La Rioja,393.531,195.919,197.612
 12,Mendoza,1.990.338,979.191,1.011.147
 13,Misiones,1.261.294,629.747,631.547
-14,Neuquén,
-15,Rio Negro,
-16,Salta,
-17,San Juan,
-18,San Luis,
-19,Santa Cruz,
-20,Santa Fe,
-21,Santiago del Estero,
-22,Tierra del Fuego,
-23,Tucumán,
+14,Neuquén,664.057,330.070,333.987
+15,Rio Negro,747.610,372.770,374.840
+16,Salta,1.424.397,704.765,719.632
+17,San Juan,781.217,387.326,393.891
+18,San Luis,508.328,252.170,256.158
+19,Santa Cruz,365.698,187.852,177.846
+20,Santa Fe,3.536.418,1.723.202,1.813.216
+21,Santiago del Estero,978.313,486.897,491.416
+22,Tierra del Fuego,173.432,88.412,85.020
+23,Tucumán,1.694.656,836.871,857.785
