@@ -1,4 +1,4 @@
-,date,prov_x,deaths,cases
+,date,state,deaths,cases
 255,2020-03-07,CABA,31.0,1.0
 256,2020-03-09,CABA,65.0,1.0
 257,2020-03-10,CABA,76.0,1.0
